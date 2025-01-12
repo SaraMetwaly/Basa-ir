@@ -18,4 +18,3 @@ This project is part of a collaboration with **Al-Ma’arifa Al-Qur’aniyya** t
 ## 📊 Technologies Used
 - **Flutter** for UI development
 - **Dart** for logic and repository management
-- **JSON** data files for testing the UI
